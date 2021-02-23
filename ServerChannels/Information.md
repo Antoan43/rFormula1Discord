@@ -4,8 +4,12 @@ https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelH
 **Coloured Roles:** Coloured team roles are self-assigned by choosing the teams you want to join by reacting to the message by the Formula One bot below! If this doesn’t work, please contact us via the contact us section below.
 
 **Flairs:** Driver flairs are self-assigned by using `$flair (TextWithNoParenthesis)` in #commands. Please use this responsibly and appropriately in compliance with the rules and guidelines outlined here.
+
+
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Sub_XPandLevelling.gif
+
+
 
 We want to reward the community for their healthy engagement in the server:
 
@@ -21,16 +25,24 @@ You will unlock permissions and perks upon reaching the levels below:
 
 A limit on XP gain (**NoXP**) may be applied for reasons such as, but not limited to the following: **Repeated off-topic messages**, **content-spam** (emojis, images, GIFs, and messages), **repeated/disruptive messages deemed low-quality**, **XP-farming through automated means** or an **extensive history of rule infringement**.
 
+
+
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Sub_News.gif
+
+
 
 Users who have been granted the '**F2**' role may submit news links to the **#news** channel:
 
 • This is done with the command syntax: `$news <URL>`
 • Please ensure that your submission isn't already in the #news channel.
 • Do not submit content from YouTube, The Telegraph, or the following banned websites: <https://www.reddit.com/r/formula1/wiki/banned-sites>  
+
+
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Sub_NitroBoost.gif
+
+
 
 Nitro Boosters receive the following privileges, regardless of XP:
 
@@ -39,7 +51,11 @@ Nitro Boosters receive the following privileges, regardless of XP:
 • Reaction perms
 • Image upload perms
 
+
+
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
+
+
 
 **Other Servers**
 
