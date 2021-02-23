@@ -1,5 +1,6 @@
-https://media.discordapp.net/attachments/645025090068676628/806953843069419540/Header.gif
-https://media.discordapp.net/attachments/645025090068676628/806953830641303662/Em_line.png
+
+https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Main-ServerRules.gif
+https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
 
 To ensure a safe environment with intelligent discussions in our community, we've made these rules and guidelines so that the community can have an enjoyable experience and so that we can maintain our obligations for safety as a Discord Partner.
 
@@ -33,8 +34,9 @@ Please note that moderators **reserve the right to act reasonably beyond the sco
 10. **Use relevant channels:** Where possible, use and follow the rules in appropriate channels for the subject matter - **clarified by the topic and pinned messages of the channel.**
 
 11. **Read the pinned messages in each channel:** Where required, follow the instructions of any pinned messages
-https://media.discordapp.net/attachments/645025090068676628/806953830641303662/Em_line.png
-https://media.discordapp.net/attachments/645025090068676628/806953838749155348/Guidelines.gif
+https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
+https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Sub_Guidelines.gif
+
 • Be respectful.
 
 • Keep all discussions in English, we are unable to effectively enforce our safety standards for messages that are not in English.
@@ -43,8 +45,9 @@ https://media.discordapp.net/attachments/645025090068676628/806953838749155348/G
 
 • Mention @users with a purpose. Only mention another user when it is necessary.
 
-https://media.discordapp.net/attachments/645025090068676628/806953830641303662/Em_line.png
-https://media.discordapp.net/attachments/645025090068676628/806953844969177089/Infringement.gif
+https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
+https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Sub_Infringement.gif
+
 Moderation will be applied and escalated for every infringement of the above rules and guidelines.
 
 When a member receives a warning, the severity of the punishment remains for a __**30-day** probationary period__. Additional escalations increase the severity of the punishment as following:
@@ -58,8 +61,9 @@ When a member receives a warning, the severity of the punishment remains for a _
 As appropriate, moderators may manually override and further escalate these punishments at their discretion (such as during a live event or during a period of higher server activity).
 
 In addition to this, depending on the context and quality of your messages, you may be '**banished**' from opt-in channels such as #f1-serious.
-https://media.discordapp.net/attachments/645025090068676628/806953830641303662/Em_line.png
+https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
 https://media.discordapp.net/attachments/645025090068676628/806954161186144256/Contact-Us.gif  
+https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Sub_Contact-Us.gif
 **Need help? Have any questions or feedback?**
 
     If you need to contact us if you need any help, have any questions or want to provide us with some feedback, please private message the ModMail bot: @**ModMail#3972**
@@ -82,6 +86,7 @@ Please note the following before making your appeal:
 • Appeals will be visible to the whole moderation team for deliberation and a final decision.
 • In some circumstances (such as the intent to cause destabilization or abuse) - we may escalate the severity of punishment for an invalid appeal up to a permanent ban.
 • We do not allow for appeals concerning permanent/hard bans. We also do not allow for reconsiderations after a final decision has been made (unless new evidence, such as an error in processing, is brought to light).
-https://media.discordapp.net/attachments/645025090068676628/806953830641303662/Em_line.png
+https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
+
 **Server Invite Link:** https://discord.gg/formula1
 [BOTMESSAGES FOR SERVER REACTIONS]
