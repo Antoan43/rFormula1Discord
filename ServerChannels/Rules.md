@@ -2,6 +2,8 @@
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Main-ServerRules.gif
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
 
+
+
 To ensure a safe environment with intelligent discussions in our community, we've made these rules and guidelines so that the community can have an enjoyable experience and so that we can maintain our obligations for safety as a Discord Partner.
 
 Please note that moderators **reserve the right to act reasonably beyond the scope of these rules and guidelines to ensure fair and safe discourse,** as we can not exhaust all possible scenarios deemed disruptive or damaging.
@@ -34,8 +36,13 @@ Please note that moderators **reserve the right to act reasonably beyond the sco
 10. **Use relevant channels:** Where possible, use and follow the rules in appropriate channels for the subject matter - **clarified by the topic and pinned messages of the channel.**
 
 11. **Read the pinned messages in each channel:** Where required, follow the instructions of any pinned messages
+
+
+
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Sub_Guidelines.gif
+
+
 
 • Be respectful.
 
@@ -61,9 +68,17 @@ When a member receives a warning, the severity of the punishment remains for a _
 As appropriate, moderators may manually override and further escalate these punishments at their discretion (such as during a live event or during a period of higher server activity).
 
 In addition to this, depending on the context and quality of your messages, you may be '**banished**' from opt-in channels such as #f1-serious.
+
+
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
+
+
+
 https://media.discordapp.net/attachments/645025090068676628/806954161186144256/Contact-Us.gif  
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Sub_Contact-Us.gif
+
+
+
 **Need help? Have any questions or feedback?**
 
     If you need to contact us if you need any help, have any questions or want to provide us with some feedback, please private message the ModMail bot: @**ModMail#3972**
@@ -86,7 +101,16 @@ Please note the following before making your appeal:
 • Appeals will be visible to the whole moderation team for deliberation and a final decision.
 • In some circumstances (such as the intent to cause destabilization or abuse) - we may escalate the severity of punishment for an invalid appeal up to a permanent ban.
 • We do not allow for appeals concerning permanent/hard bans. We also do not allow for reconsiderations after a final decision has been made (unless new evidence, such as an error in processing, is brought to light).
+
+
+
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
 
 **Server Invite Link:** https://discord.gg/formula1
+
+
+
 [BOTMESSAGES FOR SERVER REACTIONS]
+
+
+
