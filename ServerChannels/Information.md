@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelH
 
 **Coloured Roles:** Coloured team roles are self-assigned by choosing the teams you want to join by reacting to the message by the Formula One bot below! If this doesn’t work, please contact us via the contact us section below.
 
-**Flairs:** Driver flairs are self-assigned by using `$flair (TextWithNoParenthesis)` in #commands. Please use this responsibly and appropriately in compliance with the rules and guidelines outlined here.
+**Flairs:** Driver flairs are self-assigned by using `$flair (TextWithNoParenthesis)` in #commands. Please use this responsibly and appropriately in compliance with the rules and guidelines outlined in the #rules.
 
 
 https://raw.githubusercontent.com/Antoan43/rFormula1Discord/main/Assets/ChannelHeaderAnimations/Misc_EMLine.png
